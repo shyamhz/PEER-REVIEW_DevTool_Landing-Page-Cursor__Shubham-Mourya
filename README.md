@@ -4,7 +4,30 @@ Content width is way more sparse and higher scaled than original target page and
 
 ### Nav Section
 
-Logo `svg` is not used from the original website and instead a jpeg is used.
+Logo `svg` is not used from the original website and instead a jpeg is used. 
+
+Main site
+
+![main site](./review-assets/2026-02-08-164940_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-164944_hyprshot.png)
+
+
+Header/nav section is not sticky at all like the original website!
+
+
+Main site
+
+![main site](./review-assets/2026-02-08-164613_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-164551_hyprshot.png)
+
+
+
 **Improvement tips ::** Learn to inspect `Dev Tools` more *critically and attentively*... That will tell you about the target more than the simple visuals do.
 
 ### Trusted Section
@@ -16,17 +39,61 @@ The ***Company logo*** section text is a lot bigger than the original web site. 
 The colour accuracy could be better on the links of the two section banners.
 On the second banner text and image spacing is less than the original site. Sizes of the sections and banners are over saturated and way less spacing than the original site UI was present in the clone.
 
+
+
+Main site
+
+![main site](./review-assets/2026-02-08-164312_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-164329_hyprshot.png)
+
+
 ### Changelog Section
 
 The version tags used in each child items could use better padding for visual accuracy with the target. In Original site actual items of this section had same width which is missing from this clone.
+
+Main site
+
+![main site](./review-assets/2026-02-08-165535_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-165527_hyprshot.png)
+
+
+Also Changelog is very much cramped by it's above and below sections
+
 
 ### Team Section
 
 In ***Team section*** the first biggest issue is usage of wrong image , secondly the width distribution of the text and image is very different than the actual website. Also the CTA link is not only visually different in colour but also a lot bigger than it's real website equivalent. Along with it's inaccurate content compared to the real site.
 
+Main site
+
+![main site](./review-assets/2026-02-08-164415_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-164424_hyprshot.png)
+
+
+
 ### Highlight Section
 
 ***Highlight section*** is way out of proportion than the original reference that it actually noticeable. The left text section is not sticky like the target website. Also the whole Highlight section is left oriented where in real site it was center oriented. Also the texts are way bigger.
+
+
+Main site
+
+![main site](./review-assets/2026-02-08-164451_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-164439_hyprshot.png)
+
+
 **Improvement tips ::** Practice margin and item alignment more and also learn about CSS grids.
 
 ### CTA Section
@@ -35,16 +102,72 @@ In ***Team section*** the first biggest issue is usage of wrong image , secondly
 
 ### Footer Section
 
-***Footer section*** *bottom part's left side is lacking of spacing and content accuracy. \`*`SOC 2 Certified` icon missing too.
+***Footer section*** *bottom part's left side is lacking of spacing and content accuracy.
+
+`*`SOC 2 Certified` icon missing too.
+
 ***Footer section*** *bottom part's right side is fully missing completely!!*
+
+
+Main site
+
+![main site](./review-assets/2026-02-08-164501_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-164509_hyprshot.png)
+
+
 
 ### Sections
 
 Overall all the Sections are barely visually similar, a lot more work and attention to details are needed. In terms of font size, font color, element contents and sizes and alignment a **lot of work** is still required, especially element spacing and also use of `CSS flexbox and CSS grid `is needed!!
 
+Also the overall content is not properly center aligned margin, padding and positioning needs more practice.
+
+Main site
+
+![main site](./review-assets/2026-02-08-164132_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-164053_hyprshot.png)
+
+
+
+Main site
+
+![main site](./review-assets/2026-02-08-164240_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-164232_hyprshot.png)
+
+
+
+Main site
+
+![main site](./review-assets/2026-02-08-164301_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-164252_hyprshot.png)
+
+
+
 ## Code Review
 
 First and foremost `title` tag is not reflecting the website title, also the favicon link is missing too.
+
+
+Main site
+
+![main site](./review-assets/2026-02-08-164635_hyprshot.png)
+
+Your site
+
+![your site](./review-assets/2026-02-08-163732_hyprshot.png)
+
 
 Nav tag is used where Header would have been a better alternative and Nav tag should have been child of the Header tag.
 For links in `nav` , `ul` element would have been a better usage with `a` as child of `li` tag.
@@ -72,10 +195,10 @@ Your efforts are there but a lot of work and hard-work and polish is still neede
 70 for The visual similarity, 20 for code quality and semantics and 10 marks for evaluation criterion and submission quality.
 
 
-For ***visual similarity*** you get 55 out of 70, title issue, favicon, the spacing , content width, alignment, font size, font colour, missing content and usage of wrong image and all of the things mentioned in **Visual Review**  section.
+For ***visual similarity*** you get `50 out of 70`, title issue, favicon, the spacing , content width, alignment, font size, font colour, missing content and usage of wrong image and all of the things mentioned in **Visual Review**  section.
 
-For **Code quality** you get 16 out of 20, for all the semantics problem mentioned in the Code section
+For **Code quality** you get `16 out of 20`, for all the semantics problem mentioned in the Code section
 
-For Submission errors and absence of both live link and a screenshot and no README at all you get 5 out of 10 for submission.
+For Submission errors and absence of both live link and a screenshot and no README at all you get `5 out of 10` for submission.
 
-### So in grand total you get 76 out of 100.
+### So in grand total you get `71` out of `100`.
